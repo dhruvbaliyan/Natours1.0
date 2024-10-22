@@ -28,10 +28,14 @@ Natours is a web application designed for booking and managing tours, providing 
 - MongoDB installed or use a cloud service (like MongoDB Atlas)
 - SendGrid account for email notifications (in production)
 
-### Installation
+## Contributing
 
-1. Clone the repository:
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any feature requests or bug reports.
 
-   ```bash
-   git clone https://github.com/your-username/natours.git
-   cd natours
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Dhruv Baliyan
